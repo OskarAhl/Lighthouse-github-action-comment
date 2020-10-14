@@ -2,6 +2,8 @@
 
 The complete action can be found in [Lighthouse-github-action/.github/workflows/](https://github.com/OskarAhl/Lighthouse-github-action/blob/main/.github/workflows/lighthouse-on-vercel-preview-url.yml)
 
+![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/wh034wt0hxgtedhskzwo.png)
+
 ### Action workflow
 1. Get the preview url for the PR (from Vercel).
 2. un a Lighthouse audit on the preview url.
