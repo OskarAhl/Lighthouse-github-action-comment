@@ -6,7 +6,7 @@ The complete action can be found in [Lighthouse-github-action/.github/workflows/
 
 ### Action workflow
 1. Get the preview url for the PR (from Vercel).
-2. un a Lighthouse audit on the preview url.
+2. Run a Lighthouse audit on the preview url.
 3. Format the score to a table (+throw in a few emojis).
 4. Post a comment on the PR with the formatted score.
 
