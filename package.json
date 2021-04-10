@@ -1,0 +1,26 @@
+{
+  "name": "lighthouse-github-action-comment",
+  "version": "1.0.0",
+  "description": "The complete action can be found in [Lighthouse-github-action/.github/workflows/](https://github.com/OskarAhl/Lighthouse-github-action/blob/main/.github/workflows/lighthouse-on-vercel-preview-url.yml)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OskarAhl/Lighthouse-github-action-comment.git"
+  },
+  "keywords": [
+    "Lighthouse",
+    "audit",
+    "Github",
+    "action",
+    "vercel"
+  ],
+  "author": "Oskar Ahlroth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OskarAhl/Lighthouse-github-action-comment/issues"
+  },
+  "homepage": "https://github.com/OskarAhl/Lighthouse-github-action-comment#readme"
+}
