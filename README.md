@@ -22,3 +22,5 @@ The complete action can be found in [Lighthouse-github-action/.github/workflows/
 * Combine the action with a budget to prevent PRs that bring the metrics below a set treshhold.
 * Run the audit only on the pages affected by the PR.
 * Compare the collected metrics with the actual metrics of your production site.
+
+# Test PR
